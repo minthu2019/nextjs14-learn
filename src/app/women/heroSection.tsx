@@ -1,6 +1,7 @@
+'use client'
 import React from 'react'
 import Card from '@/app/ui/card'
-import Women from '../../../public/Image/our_product_image.png'
+
 
 
 
