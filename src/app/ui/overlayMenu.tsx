@@ -1,6 +1,5 @@
 import React from 'react';
 import NavLink from './navLink';
-import { link } from 'fs';
 
 interface OverlayMenuProps {
   links: {path:string ; title :string} []
