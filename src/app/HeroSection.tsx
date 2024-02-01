@@ -12,8 +12,9 @@ const HeroSection = () => {
       <Navbar/>
       <div className='max-w-[1175px] mx-auto grid md:grid-cols-2  mt-10  gap-4 items-center'>
         <div  className='flex items-center justify-center md:items-start  flex-col'>
-            <h1 className=' text-4xl md:text-7xl text-black font-black mb-6 w-80 md:w-full text-center md:text-left'>Find The Best Fashion style For You</h1>
-            <p className=' w-[380px] text-black font-normal mb-10 text-center md:text-left'>
+            <h1 className=' text-3xl md:text-7xl text-black font-black
+             mb-6 w-60 mx-auto md:w-full text-center md:text-left'>Find The Best Fashion style For You</h1>
+            <p className=' w-[300px] mb-8 uppercase text-center text-xs font-normal md:text-left'>
                 hello my name is min thu khaing  i am from myanmar  
                 now i wanna tell you something about my family. 
                 My family have 
