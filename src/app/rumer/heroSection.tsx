@@ -41,13 +41,13 @@ const heroSection = () => {
             </div>
             <div className='w-[100px] bg-gray-500 h-[1px]'></div>
             <div className='flex flex-col text-center'>
-                <span className='text-3xl font-black'>2024</span>
-                <span className=' '>fashion fiunded</span>
+                <span className='text-3xl font-black'>8900+</span>
+                <span className=' '>produt sold</span>
             </div>
             <div className='w-[100px] bg-gray-500 h-[1px]'></div>
             <div className='flex flex-col text-center'>
-                <span className='text-3xl font-black'>2024</span>
-                <span className=' '>fashion fiunded</span>
+                <span className='text-3xl font-black'>3105+</span>
+                <span className=' '>best review</span>
             </div>
         </div>
       </div>

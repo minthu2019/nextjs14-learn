@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import Logo from '@/app/ui/minthu-logo'
+import Logo from '@/app/ui/crafty-crew-logo'
 import Navlink from '@/app/ui/navLink'
 import OverlayMenu from '@/app/ui/overlayMenu'
 import Link from 'next/link'
@@ -10,24 +10,24 @@ import { AiOutlineMenu , AiOutlineClose } from 'react-icons/ai'
 
 const navLinks = [
   {
-    path:'/men',
-    title: 'MEN'
+    path:'/midlane',
+    title: 'MID LANE'
   },
   {
-    path:'/women',
-    title: 'WOMEN'
+    path:'/goldlane',
+    title: 'GOLD LANE'
   },
   {
-    path:'/kids',
-    title: 'KIDS'
+    path:'/jungle',
+    title: 'JUNGLE'
   },
   {
-    path:'/collection',
-    title: 'COLLECTION'
+    path:'/rumer',
+    title: 'RUMER'
   },
   {
-    path:'/trands',
-    title: 'TRENDS'
+    path:'/explane',
+    title: 'EXP LANE'
   },
 ]
 
@@ -41,7 +41,7 @@ const Navbar = () => {
 
   return (
     <nav className=' max-w-[1175px] mx-auto bg-transparent z-10'>
-      <div className=' flex items-center justify-between px-4 py-2 border-2 border-blue-800 '>
+      <div className=' flex items-center justify-between px-4 py-1 border-2 border-blue-800 '>
         
           <Link href={"/"}>
             <Logo/>
