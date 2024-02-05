@@ -21,7 +21,6 @@ const heroSection = () => {
             src={Flash}
             alt='Flash'
             width={220}/>
-
         </div>
         
       </div>
